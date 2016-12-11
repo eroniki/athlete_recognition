@@ -1,4 +1,13 @@
+bib/libsvm/
+bib/matconvnet-1.0-beta23/
+bib/SelectiveSearchCodeIJCV/
+bib/sources/
+bib/tsne/
+
 .mat
+bib/*.mat
+New Folder/*.mat
+
 .dropbox
 
 # Created by https://www.gitignore.io/api/matlab,linux,windows,microsoftoffice
